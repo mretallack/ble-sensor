@@ -1,0 +1,4 @@
+wheel
+pybluez
+beacontools
+pyserial
